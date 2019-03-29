@@ -1,0 +1,5 @@
+GET http://localhost:8080/greeting?name=Ipsita HTTP/1.1
+
+{
+
+}
